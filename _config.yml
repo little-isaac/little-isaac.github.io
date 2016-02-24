@@ -31,10 +31,10 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
-  credits: Credits
+  copyright: Milind Patel
+  location: Address
+  social: Follow Me
+  credits: Contact No
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -51,11 +51,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Plot No :- 114/2
+  - line: Plot No :- 114/2,Sector - 7/C
   - line: Gandhinagar,Gujarat,INDIA,382007
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: '+91 7405487015'
 
 # Build settings
 markdown: kramdown
